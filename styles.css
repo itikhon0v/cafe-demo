@@ -1,0 +1,30 @@
+body {
+  background-color: beige;
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+h1 {
+  font-size: 5em;
+  font-style: italic;
+}
+
+h3 {
+  font-size: 2em;
+  margin-bottom: 10px;
+  font-style: italic;
+}
+
+p {
+  margin-top: 10px;
+  font-size: 1.5em;
+}
+
+ul {
+  list-style: none;
+}
